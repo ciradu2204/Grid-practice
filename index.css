@@ -1,0 +1,101 @@
+
+.container{
+    margin: 0 auto;
+    width:100%;
+    max-width: 1200px;
+   box-sizing: border-box
+}
+
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
+
+.row{
+    margin: 20px auto 20px;
+    overflow: hidden;
+}
+p{
+  text-align: center;
+  line-height: 1px;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+.col-1{
+    float: left;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 8.33%;
+}
+.col-2{
+    float: left;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 16.66%;
+} 
+.col-3{
+    float: left;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 25%;
+}
+.col-4{
+    float: left;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 33.3333%;
+}
+.col-5{
+    float: left;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 41.6666%;
+}
+
+.col-6{
+    float: left;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 50%;
+}
+
+.col-7{
+    float: left;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width:58.33333333333333%;
+}
+.col-8{
+    float: left;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width:66.66666666666667%;
+}
+.col-9{
+    float: left;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 75%;
+}
+.col-10{
+    float: left;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 83.33333333333333%;
+}
+.col-11{
+    float: left;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 91.66666666666667%;
+}
+.col-12{
+    float: left;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width:  100%;
+}
